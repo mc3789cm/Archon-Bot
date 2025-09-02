@@ -10,6 +10,7 @@ The word “Archon” comes from ancient Greek, meaning “ruler” or “magist
 
 ### See Also
 https://en.wikipedia.org/wiki/Archon
+https://github.com/Rapptz/discord.py
 
 Add me on Discord if you're interested in contributing or even just have some suggestions/ideas. I'm open to any feedback or criticisms.
 

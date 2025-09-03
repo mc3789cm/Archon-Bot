@@ -10,20 +10,19 @@ I plan to make Archon (kind of what we call the terminal in Linux) a "power tool
 ## Possible Features
 > [!NOTE]
 > These are only ideas, not affirmative plans.
-- Advanced, user-friendly, and intuitive reaction roles
+- Advanced, user-friendly, and intuitive reaction roles<br/>
 Reaction roles can be crucial for any server, even if it's just `click` and you're assigned an access role. That stops most bot accounts from entering your server, letting you take acction on it before your users become subject to them. I'll take this to a higher bar with inspiration from Tech's [Reaction Roles](https://reactionroles.mtdv.me/) bot.
-- Visually customizable dashboard for easy configuration on all your servers.
+- Visually customizable dashboard for easy configuration on all your servers.<br/>
 Will probably be made with [Streamlit](https://streamlit.io/).
-- Cron jobs/automation of any sorts
-- Welcome/leave triggers
-- Logging for almost every event
+- Cron jobs/automation of any sorts<br/>
+- Welcome/leave triggers<br/>
+- Logging for almost every event<br/>
 Events listed [Here](https://discordpy.readthedocs.io/en/latest/api.html#discord-api-events).
-- Leveling system
-- Starboard
-- Embeds
+- Leveling system<br/>
+- Starboard<br/>
+- Embeds<br/>
 Inspiration from [Discohook Utils](https://discohook.app).
-- Keep as much source-code openly viewable as securely possible.
-
+- Keep as much source-code openly viewable as securely possible.<br/>
 
 ## Archon's Philosophy
 Archon's philosophy gravitates alongside that of where the name was originally thought off of, not just the literal meaning of the word (This is defined in the next paragraph), but what it relates to - Arch Linux.
